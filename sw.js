@@ -24,7 +24,7 @@ const CACHE_NAME = 'v1_pwa_app_cache',
     'dispositivo.html',
     'favicon.ico',
     'historial.html',
-    'index.html',
+    'index.html'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
